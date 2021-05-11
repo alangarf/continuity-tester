@@ -1150,7 +1150,7 @@
     (tags "capacitor handsolder")
     (path /5F95AEB6)
     (attr smd)
-    (fp_text reference C1 (at 0 1.778) (layer F.SilkS)
+    (fp_text reference C1 (at 0 -1.68) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value 10nF (at 0 1.68) (layer F.Fab)
